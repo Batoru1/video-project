@@ -71,6 +71,13 @@ header {
 
 .switch-btn span {
   font-size: smaller;
+  text-transform: capitalize;
+  padding-left: 1.2rem;
+  padding-right: 0.2rem;
+}
+
+.slide .switch {
+  left: 50%;
 }
 
 .switch-btn span:nth-child(1) {
